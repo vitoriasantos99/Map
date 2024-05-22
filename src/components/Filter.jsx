@@ -84,7 +84,8 @@ const style = StyleSheet.create(
         },
         emoji:{
             textAlign: 'center',
-            fontSize: 50,
+            fontSize: 30,
+            color: 'black',
         },
         button:{
             borderRadius: 8,
