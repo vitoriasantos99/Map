@@ -51,11 +51,6 @@ function Filtro() {
                             >   
                         <Text style={style.buttonText}>Continue</Text>
                     </Pressable> 
-                    {/* <Button
-                        title="Comprar"
-                        onPress={() => Alert.alert('teste')}
-                        color={'black'}
-                    /> */}
                 </View>
         ))}
         </View>

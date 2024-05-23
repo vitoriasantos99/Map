@@ -41,11 +41,6 @@ function Lista () {
                             >   
                         <Text style={style.buttonText}>Continue</Text>
                     </Pressable> 
-                    {/* <Button
-                        title="Comprar"
-                        onPress={() => Alert.alert('Obrigada por comprar')}
-                        color={'pink'}
-                    /> */}
                 </View>
                 ))}
         </View>

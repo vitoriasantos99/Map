@@ -4,6 +4,8 @@ import App from './components/Teste';
 import Lista from "./components/Lista";
 import Teste from './components/Teste';
 import Filtro from "./components/Filter";
+import Reduce from "./components/Reduce";
+import Carrinho from "./components/Carrinho";
 
 
 
@@ -12,7 +14,9 @@ export default props => {
         <SafeAreaView style={{flex:1,}}>
             {/* <Teste/> */}
             {/* <Lista/> */}
-            <Filtro/>
-        </SafeAreaView>
+            {/* <Filtro/> */}
+            {/* <Reduce/> */}
+            <Carrinho/>
+            </SafeAreaView>
     )
 }
